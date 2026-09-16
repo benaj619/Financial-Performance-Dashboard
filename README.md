@@ -58,7 +58,7 @@ The **Enterprise segment operates at a loss in every country** in the dataset, c
 
 ## 📁 Repo Contents
 
-- `Financial Performance Dashboard.pbix` — the Power BI file
+- `Final BI 2.pbix` — the Power BI file
 - `dashboard-preview.png` — screenshot of the finished dashboard
 - `README.md` — this file
 
