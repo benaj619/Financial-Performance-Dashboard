@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analyzing sales, profitability, market distribution, and segment performance across 16 countries. Built as a single-page executive summary translating raw transactional data into actionable business insights.
 
 ![Dashboard Preview](./dashboard-preview.png)
-*Replace `dashboard-preview.png` with a screenshot of your finished dashboard, placed in the repo root.*
+
 
 ## 🔗 Overview
 
